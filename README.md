@@ -51,8 +51,8 @@ Flask + SQLAlchemy backend, vanilla JS frontend, four payment gateways (crypto, 
 
 [![Website](https://img.shields.io/badge/srijann.dev-000000?style=flat-square&logo=firefox&logoColor=white)](https://srijann.dev)
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:hiroo1337s@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/your-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srijan-s-7273a73aa)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/hiro3301)
 
 <hr>
 
