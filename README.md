@@ -4,6 +4,8 @@
 
 Mostly **Python** and **JavaScript**. I've been shipping and maintaining things in production since 2022.
 
+🌐 [srijann.dev](https://srijann.dev)
+
 ---
 
 ### What I work on
@@ -34,6 +36,8 @@ Mostly **Python** and **JavaScript**. I've been shipping and maintaining things 
 **[Sboosts](https://sboosts.com)** — Discord boosting and Nitro reseller platform. Founded 2022, built and run solo.
 Flask + SQLAlchemy backend, vanilla JS frontend, four payment gateways (crypto, card, PayPal, Razorpay), self-serve reseller and customer panels, admin dashboard with server-side pagination and search, and a py-cord bot handling the order queue and support tickets.
 
+<!-- Device-bound license server goes here once it's up. -->
+
 ---
 
 ### GitHub
@@ -47,9 +51,10 @@ Flask + SQLAlchemy backend, vanilla JS frontend, four payment gateways (crypto, 
 
 ### Reach me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hiro@sboosts.com)
+[![Website](https://img.shields.io/badge/srijann.dev-000000?style=flat-square&logo=firefox&logoColor=white)](https://srijann.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hiroo1337s@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/your-id)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/d)
 
 ---
 
